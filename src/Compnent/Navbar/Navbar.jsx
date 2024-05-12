@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <nav className='navBar'>
             {/* <MenuIcon/> */}
-            <a className='title' href="/">Portfolio</a>
+            <a className='title' href="/">Ajay</a>
             <div className='menu'>
                 {
                     menuOpen ? (
